@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MYRA</string>
+    <string name="accessibility_description">Optional MYRA service. This starter does not read screen contents or click controls.</string>
+</resources>
